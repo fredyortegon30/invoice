@@ -157,3 +157,12 @@ tr:hover .cut { opacity: 1; }
 .small-text {
     font-size: 60%; /* Puedes ajustar este valor según sea necesario */
 }
+
+@page {
+  size: letter;
+  margin: 1cm;
+}
+
+body {
+  margin: 1cm;
+}
